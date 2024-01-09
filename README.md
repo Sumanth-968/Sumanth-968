@@ -1,7 +1,7 @@
 ### Hi there Iam Naga Sumanth👋
 
 # 💫 About Me:
-🔭I’m currently working on: Front-end and Backend Development<br><br>👯 I’m looking to collaborate on: Web Development Projects<br><br>🌱 I’m currently learning: <br><br>📫 To reach me : sumanthnaga2710@gmail.com<br>
+🔭I’m currently working on: Front-end and Backend Development<br><br>👯 I’m looking to collaborate on: Web Development Projects<br><br>🌱 I’m currently learning: learning New trendz in Web Development<br><br>📫 To reach me : sumanthnaga2710@gmail.com<br>
 
 
 ## 🌐 Socials:
